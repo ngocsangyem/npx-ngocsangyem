@@ -18,7 +18,6 @@ const data = {
 	name: chalk.white('               Sang Nguyen'),
 	handle: chalk.white('ngocsangyem'),
 	work: chalk.white('Front-End at CanhCam'),
-	opensource: chalk.white('Node.js Community Committee ') + chalk.green('⬢'),
 	twitter: chalk.gray('https://twitter.com/') + chalk.cyan('ngocsangyem'),
 	npm: chalk.gray('https://npmjs.com/') + chalk.red('~ngocsangyem'),
 	github: chalk.gray('https://github.com/') + chalk.green('ngocsangyem'),
